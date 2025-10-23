@@ -1,1 +1,1 @@
-#my-git-project
+This is a README file
